@@ -91,7 +91,6 @@ The following are the 5 different hand gestures or actions that I’ve programme
 Gesture 1: Place your hand in front of the Right Ultrasonic Sensor at a distance (between 15CM to 35CM) for a small duration and move your hand away from the sensor. This gesture will Scroll Down the Web Page or Decrease the Volume.
 
 ![Screenshot (677)](https://user-images.githubusercontent.com/118633170/205702695-53eb6aa3-0b80-4ff6-90ab-8e4c63e510df.png)
-![Screenshot (678)](https://user-images.githubusercontent.com/118633170/205702703-a52bdf06-ae08-465a-a82d-702dbf19c5a1.png)
 
 
 Gesture 2: Place your hand in front of the Right Ultrasonic Sensor at a distance (between 15CM to 35CM) for a small duration and move your hand towards the sensor. This gesture will Scroll up the Web Page or Increase the Volume.

@@ -33,9 +33,6 @@ PCBA Services
 
 Moreover, you can pre-order parts and hold the inventory at [JLCPCB](https://jlcpcb.com/RNA), giving you peace-of-mind that you won't run into any last minute part shortages. jlcpcb.com/RNA
 
-![Screenshot (676)](https://user-images.githubusercontent.com/118633170/205702603-40bb25b9-1952-4bdc-a6d6-3130aefd55fd.png)
-
-![Screenshot (671)](https://user-images.githubusercontent.com/118633170/205702619-4b5dcc04-d549-463b-bf12-d520e3147224.png)
 
 3d printing
 
@@ -45,7 +42,9 @@ SLA -- MJF --SLM -- FDM -- & SLS. easy order and fast shipping makes [JLCPCB](ht
 
 [JLCPCB](https://jlcpcb.com/RNA) 3D Printing starts at $1 &Get $54 Coupons for new users
 
+![Screenshot (676)](https://user-images.githubusercontent.com/118633170/205702603-40bb25b9-1952-4bdc-a6d6-3130aefd55fd.png)
 
+![Screenshot (671)](https://user-images.githubusercontent.com/118633170/205702619-4b5dcc04-d549-463b-bf12-d520e3147224.png)
 
 Human Machine Interface or HMI is a system comprising of hardware and software that helps in communication and exchange of information between the user (human operator) and the machine.
 
